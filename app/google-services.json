@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "778897065943",
+    "firebase_url": "https://bible-it-admin.firebaseio.com",
+    "project_id": "bible-it-admin",
+    "storage_bucket": "bible-it-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778897065943:android:b90650eb7fa28713",
+        "android_client_info": {
+          "package_name": "rcarb.bibleit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778897065943-t6ts167oa5e961f4i1s95s13prgf80v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATPEKKYIOuX7DGT19SZ5NIrzmc1xybtzU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
